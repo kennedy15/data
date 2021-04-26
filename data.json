@@ -1,0 +1,37 @@
+{
+    "type":"FeatureCollection",
+    "features":[
+        {
+            "type":"Feature",
+            "id":"0",
+            "properties":{
+                "name":"Chuck",
+                "speed":.1
+            }
+        },
+        {
+            "type":"Feature",
+            "id":"1",
+            "properties":{
+                "name":"Wing Ding",
+                "speed":.21
+            }
+        },
+        {
+            "type":"Feature",
+            "id":"2",
+            "properties":{
+                "name":"Quack",
+                "speed":.31
+            }
+        },
+        {
+            "type":"Feature",
+            "id":"3",
+            "properties":{
+                "name":"Flight Risk",
+                "speed":.5
+            }
+        }
+    ]
+}
